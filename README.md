@@ -1,4 +1,4 @@
-# Application-de-bureau
+# Intervalle et Contrainte
 Voici une application de bureau qui manipule des intervalles et des contraintes.
 Dans ce fichier vous allez trouvez: 
 ## **Classe Intervalle:**
