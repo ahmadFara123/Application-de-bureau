@@ -6,8 +6,7 @@ dans un ensemble. Dans notre cas, les contraintes vont limiter l’ensemble des 
 d’intersection et de soustraction. Nous allons tester ces services à l’aide de testes unitaire JUnit.</p> 
 
 ## **Classe Intervalle:**
-    La classe Intervalle va décrire des intervalles semi-fermés à gauche et semi-ouverts à droite avec leurs
-services.
+    La classe Intervalle va décrire des intervalles semi-fermés à gauche et semi-ouverts à droite avec leurs services.
 
 ## **Classe Contrainte:**
      La classe Contrainte va permettre de décrire un ensemble d’intervalles disjoint.
